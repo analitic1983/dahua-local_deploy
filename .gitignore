@@ -1,0 +1,5 @@
+/etc/nginx/ssl/camera.local/fullchain.pem
+/etc/nginx/ssl/camera.local/privkey.pem
+/data/redis/
+/data/mysql/
+/.idea/
